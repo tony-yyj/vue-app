@@ -4,5 +4,5 @@
   </div>
 </template>
 
-<script src="./loginJS.js"></script>
+<script src="./login.js"></script>
 <style src="./login.css"></style>
